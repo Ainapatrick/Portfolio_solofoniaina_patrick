@@ -4,7 +4,7 @@ Portfolio web developpé en **React.js**, pour la presentation et montre les pro
 
 ---
 
-## Teknolojia et librairies utilisées
+## Technologie et librairies utilisées
 
 - React v19
 - React DOM
@@ -18,12 +18,14 @@ Portfolio web developpé en **React.js**, pour la presentation et montre les pro
 
 ---
 
-## Fomba fametrahana sy fandidiana
+## mode d'apprentissage et utilisation
 
 Cloner le repo dans votre dossier dans l'ordinateur
 
 --- Ouvre console bash, ou fish ---
 # git clone https://github.com/Ainapatrick/Portfolio_solofoniaina_patrick.git
+
+--- accèder dans le dossier repo ---
 # cd Portfolio_solofoniaina_patrick
 
 --- Installation dependance ---
