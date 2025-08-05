@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/solofoniaina_patrick/static/css/main.2d154c4f.css",
-    "main.js": "/solofoniaina_patrick/static/js/main.00064daa.js",
-    "static/js/488.763a0cc4.chunk.js": "/solofoniaina_patrick/static/js/488.763a0cc4.chunk.js",
-    "static/media/patrick.png": "/solofoniaina_patrick/static/media/patrick.726a77fd674699f51c21.png",
-    "static/media/Poppins-Thin.ttf": "/solofoniaina_patrick/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
-    "static/media/Poppins-Light.ttf": "/solofoniaina_patrick/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
-    "static/media/Poppins-Regular.ttf": "/solofoniaina_patrick/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
-    "static/media/moncv.pdf": "/solofoniaina_patrick/static/media/moncv.3623d80fc1dd4c96e13f.pdf",
-    "static/media/Poppins-Medium.ttf": "/solofoniaina_patrick/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
-    "static/media/Poppins-SemiBold.ttf": "/solofoniaina_patrick/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
-    "static/media/Poppins-Bold.ttf": "/solofoniaina_patrick/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
-    "static/media/Poppins-ExtraBold.ttf": "/solofoniaina_patrick/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
-    "static/media/ordi2_.jpeg": "/solofoniaina_patrick/static/media/ordi2_.bfe3ec68c708e16696ea.jpeg",
-    "static/media/images.jpeg": "/solofoniaina_patrick/static/media/images.f93b89238a7d11694cce.jpeg",
-    "index.html": "/solofoniaina_patrick/index.html",
-    "main.2d154c4f.css.map": "/solofoniaina_patrick/static/css/main.2d154c4f.css.map",
-    "main.00064daa.js.map": "/solofoniaina_patrick/static/js/main.00064daa.js.map",
-    "488.763a0cc4.chunk.js.map": "/solofoniaina_patrick/static/js/488.763a0cc4.chunk.js.map"
+    "main.css": "/Portfolio_solofoniaina_patrick/static/css/main.50de578b.css",
+    "main.js": "/Portfolio_solofoniaina_patrick/static/js/main.baa500f7.js",
+    "static/js/488.763a0cc4.chunk.js": "/Portfolio_solofoniaina_patrick/static/js/488.763a0cc4.chunk.js",
+    "static/media/patrick.png": "/Portfolio_solofoniaina_patrick/static/media/patrick.726a77fd674699f51c21.png",
+    "static/media/Poppins-Thin.ttf": "/Portfolio_solofoniaina_patrick/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/Portfolio_solofoniaina_patrick/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/Portfolio_solofoniaina_patrick/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/moncv.pdf": "/Portfolio_solofoniaina_patrick/static/media/moncv.3623d80fc1dd4c96e13f.pdf",
+    "static/media/Poppins-Medium.ttf": "/Portfolio_solofoniaina_patrick/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/Portfolio_solofoniaina_patrick/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/Portfolio_solofoniaina_patrick/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/Portfolio_solofoniaina_patrick/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/ordi2_.jpeg": "/Portfolio_solofoniaina_patrick/static/media/ordi2_.bfe3ec68c708e16696ea.jpeg",
+    "static/media/images.jpeg": "/Portfolio_solofoniaina_patrick/static/media/images.f93b89238a7d11694cce.jpeg",
+    "index.html": "/Portfolio_solofoniaina_patrick/index.html",
+    "main.50de578b.css.map": "/Portfolio_solofoniaina_patrick/static/css/main.50de578b.css.map",
+    "main.baa500f7.js.map": "/Portfolio_solofoniaina_patrick/static/js/main.baa500f7.js.map",
+    "488.763a0cc4.chunk.js.map": "/Portfolio_solofoniaina_patrick/static/js/488.763a0cc4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d154c4f.css",
-    "static/js/main.00064daa.js"
+    "static/css/main.50de578b.css",
+    "static/js/main.baa500f7.js"
   ]
 }
