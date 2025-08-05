@@ -1,0 +1,138 @@
+.skills-container {
+    padding: 2rem;
+    background: var(--black);
+}
+
+.skills-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.barre {
+  color: var(--dark-orange);
+  font-weight: bold;
+  margin: 8px;
+}
+
+/* LEFT TEXT PART */
+.skills-left {
+  flex: 1;
+  min-width: 300px;
+  animation: slideInLeft 1s ease forwards;
+}
+
+.skills-left h4 {
+  text-align: left;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.skills-left .titre {
+  text-align: left;
+  font-size: 16px;
+  color: var(--text-dark);
+  margin-bottom: 5px;
+}
+
+.skills-left p {
+  text-align: left;
+  font-size: 14px;
+  color: var(--text-light);
+  margin-bottom: 15px;
+}
+
+/* RIGHT SKILLS PART */
+.skills-right {
+  flex: 2;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  animation: slideInRight 1s ease forwards;
+}
+
+.skill-card {
+  background: var(--black);
+  border-radius: 12px;
+  padding: 1rem;
+  transition: all 0.3s ease;
+  transform-style: preserve-3d;
+}
+
+.skill-card:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 8px 20px #03030333, 0 12px 40px var(--light-blue-shadow);
+}
+
+.skill-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.skill-card .icon {
+  font-size: 3rem;
+  color: var(--skill-color);
+  transition: color 0.3s ease;
+}
+
+.skill-card .name {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #ccc;
+  transition: color 0.3s ease;
+}
+
+.skill-card:hover .icon,
+.skill-card:hover .name {
+  color: var(--dark-orange);
+}
+
+.progress-bar {
+  background: #ccc;
+  height: 10px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.progress {
+    height: 100%;
+    width: 0%;
+    background-color: #ccc;
+    transition: width 1s ease, background-color 0.3s ease;
+}
+
+.skill-card:hover .progress {
+    width: var(--progress-width);
+    background-color: var(--dark-orange);
+}
+
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-100px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(100px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes width {
+  from { width: 0%; }
+  to { width: var(--progress-width); }
+}
+
+@media (max-width: 768px) {
+  .skills-content {
+    flex-direction: column;
+  }
+
+  .skills-left, .skills-right {
+    width: 100%;
+  }
+
+  .skills-right {
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  }
+}

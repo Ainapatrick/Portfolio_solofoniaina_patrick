@@ -1,0 +1,14 @@
+.footer {
+    background-color: var(--black);
+    height: 70px;
+    color: var(--white);
+    box-shadow: 1px 1px 5px 5px var(--dark-orange);
+    
+}
+
+.footer div{
+    margin-top: 2px;
+    padding-top: 1px;
+    text-align: center;
+}
+
