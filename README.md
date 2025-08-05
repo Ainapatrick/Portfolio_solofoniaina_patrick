@@ -22,17 +22,21 @@ Portfolio web developpé en **React.js**, pour la presentation et montre les pro
 
 Cloner le repo dans votre dossier dans l'ordinateur
 
---- Ouvre console bash, ou fish ---
+## Ouvre console bash, ou fish ---
+
 ```git clone https://github.com/Ainapatrick/Portfolio_solofoniaina_patrick.git```
 
---- accèder dans le dossier repo ---
+## accèder dans le dossier repo ---
+
 ```cd Portfolio_solofoniaina_patrick```
 
---- Installation dependance ---
-# npm install
+## Installation dependance ---
 
---- Demmarage ---
-# npm start
+```npm install```
+
+## Demmarage ---
+
+```npm start```
 
 Ouvre par **http://localhost:3000**
 
